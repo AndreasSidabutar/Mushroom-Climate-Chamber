@@ -1,0 +1,4 @@
+-Modular test adalah pengujian komponen atau module yang akan digunakan dalam pembuatan alat (Mushroom Climate Chamber).
+-Modular test meliputi :
+a. Pengujian fungsi basic dari tiap-tiap komponen/ module.
+b. pengujian fungsi komponen / module jika dijalankan secara bersamaan.
