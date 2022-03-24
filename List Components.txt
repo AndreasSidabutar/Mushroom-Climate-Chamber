@@ -1,0 +1,28 @@
+List Of Components/ Modules :
+
+- MCU 
+  * ESP 32 DEVKIT V1
+  
+- Sensor 
+  * DHT22
+  * Ds18b20
+  
+ -Actuator
+  * Peltier TEC1-12706
+  * Mist Maker 24 Volt
+  * Fan 12 Volt
+
+- Display
+  * LCD Display 4x16
+  * LED Green
+  * LED Yellow
+  * LED Red
+
+-Input Module
+  * Rotary encoder
+  * Button
+ 
+
+ 
+  
+
